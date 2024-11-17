@@ -101,7 +101,7 @@ print("Check these outputs to verify assumptions for linear regression.")
 ## Output:
 ![alt text](Ex-1-Output.PNG)
 ![alt text](Ex-1-Chart1.png) 
-![alt text](Ex-1-Chart2.png) 
+![Ex-1-Chart2](https://github.com/user-attachments/assets/1a5b5c3f-3906-49c0-b88f-d66a927c4b30)
 ![alt text](Ex-1-Chart3.png)
 ![alt text](Ex-1-Chart4.png) 
 ## Result:
